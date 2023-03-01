@@ -1,7 +1,7 @@
 ---
 title: "Divergent patterns of experimental and model-derived permafrost ecosystem carbon dynamics in response to Arctic warming"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-4
+permalink: /publication/2009-10-01-paper-title-number-7
 excerpt: 'This paper compares modeled carbon fluxes with field data at Eight Mile Lake, AK.'
 date: 2018-10-02
 venue: 'Environmental Research Letters'

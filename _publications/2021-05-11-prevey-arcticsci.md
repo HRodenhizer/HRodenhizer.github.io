@@ -1,7 +1,7 @@
 ---
 title: "The tundra phenology database: more than two decades of tundra phenology responses to climate change"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-5
 excerpt: 'This paper introduces the tundra phenology database.'
 date: 2021-05-11
 venue: 'Arctic Science'
